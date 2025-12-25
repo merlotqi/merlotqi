@@ -1,15 +1,6 @@
 ## Hi, I'm merlotqi 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Fira+Code&
-size=22&
-pause=1000&
-color=58A6FF&
-width=600&
-lines=C%2B%2B+System+Programmer;
-IPC+%2F+Shared+Memory+%2F+RingBuffer;
-Lock-free+Data+Structures;
-epoll+%2B+C%2B%2B20+Coroutines)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=C%2B%2B+System+Programmer;IPC+%2F+Shared+Memory+%2F+RingBuffer;epoll+%2B+C%2B%2B20+Coroutines)
 
 ---
 
@@ -61,17 +52,9 @@ epoll+%2B+C%2B%2B20+Coroutines)
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?
-username=merlotqi&
-show_icons=true&
-theme=github_dark&
-hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merlotqi&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?
-username=merlotqi&
-layout=compact&
-theme=github_dark&
-hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=merlotqi&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
